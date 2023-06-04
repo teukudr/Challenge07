@@ -5,5 +5,13 @@ Tugas kalian disini adalah:
 2. Tulis unit test di dalam repository ini menggunakan `jest`.
 3. Coverage minimal 70%
 
-
 Good luck!
+
+
+## Unit Test Coverage
+
+![unit test coverage](hasil_testing.png)
+
+## Accessing API Documentation
+
+-   
